@@ -5,8 +5,8 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/restcountryappreactjs-gbgtXwVdD)
+- Live Site URL: [Live site URL here](https://wonderful-bassi-2efb1a.netlify.app)
 
 ## My process
 
