@@ -53,7 +53,7 @@ export const CountryCard = ({ country }: Props) => {
 
     return (
         <Container onClick={handleClick}>
-            <CountryImg src={country?.flags.svg} />
+            <CountryImg src={country?.flags.svg} alt={country?.name} />
             <CardBody>
                 <CardTitle>{country?.name}</CardTitle>
                 <CardParagraph>
